@@ -29,7 +29,7 @@ Expected Solution: Create a digital marketplace that:
 
 ## Workflow – KisanSetu Direct
 
-    * Farmers register and upload crop name, quantity, quality, harvest date, and location.
+    *Farmers register and upload crop name, quantity, quality, harvest date, and location.
     *Buyers (customers, retailers, hotels, and institutions) browse crops or post their requirements.
     *The system matches farmers and buyers based on crop type, quantity, quality, location, and freshness.
     *Produce from different farmers is combined to fulfil large buyer orders.
