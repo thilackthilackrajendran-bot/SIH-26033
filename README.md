@@ -13,19 +13,10 @@ Ministry of Consumer Affairs, Food & Public Distribution
 Agriculture, FoodTech & Rural Development
 
 ## Problem Description
-Expected Solution: Create a digital marketplace that:
-
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
-• Uses AI for demand forecasting and route optimization.
-
-## Benefits:
-
-    • Better prices for farmers.
-    • Lower prices for consumers.
-    • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
+
+Multiple intermediaries between farmers and buyers can reduce producer price realization and increase consumer prices. The brief calls for a digital marketplace connecting farmers/FPOs with consumers and bulk buyers, logistics support, and AI-based demand forecasting and route optimization.
 
 ## Workflow – KisanSetu Direct
 
