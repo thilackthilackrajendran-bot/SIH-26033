@@ -14,9 +14,11 @@ Agriculture, FoodTech & Rural Development
 
 ## Problem Description
 
+Multiple intermediaries between farmers and buyers can reduce producer price realization and increase consumer prices. The brief calls for a digital marketplace connecting farmers/FPOs with consumers and bulk buyers, logistics support, and AI-based demand forecasting and route optimization.
+
 ## Proposed Solution
 
-Multiple intermediaries between farmers and buyers can reduce producer price realization and increase consumer prices. The brief calls for a digital marketplace connecting farmers/FPOs with consumers and bulk buyers, logistics support, and AI-based demand forecasting and route optimization.
+KisanSetu Direct is a farmer-first marketplace for transparent produce listings, pooled demand, coordinated logistics, and traceable order fulfillment.
 
 ## Workflow – KisanSetu Direct
 
