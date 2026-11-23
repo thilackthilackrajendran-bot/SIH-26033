@@ -19,7 +19,7 @@ Expected Solution: Create a digital marketplace that:
 • Provides logistics support.
 • Uses AI for demand forecasting and route optimization.
 
-Benefits:
+## Benefits:
 
 • Better prices for farmers.
 • Lower prices for consumers.
